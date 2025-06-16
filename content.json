@@ -45,6 +45,22 @@
       "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "drive": "",
       "mega": "https://mega.nz/embed/vd1xnRZD#SdBNvk7AHsGX3vmTrxzUsoyENv56fD9dpIpHYlFA98Q"
+    },
+    {
+      "id": "movie-4",
+      "title": "testas",
+      "description": "Con las dispares ciudades de Piltover y Zaun como telón de fondo, dos hermanas luchan en bandos opuestos de una guerra entre tecnologías mágicas y creencias enfrentadas.",
+      "year": 2023,
+      "duration": 145,
+      "rating": "PG-13",
+      "genres": ["Sci-Fi", "Drama", "Adventure"],
+      "thumbnail": "https://gkids.com/wp-content/themes/blankslate/assets/pages/ARCN1/images/products/ARCANE_AppleTV2000x3000.jpg",
+      "banner": "https://i.redd.it/no-spoilers-made-for-cool-jinx-1920x1080-wallpaper-v0-0bhz19r95u2e1.png?width=1920&format=png&auto=webp&s=dee809d2de7c91e7138fe8ece30f79e050e5f8ac",
+      "type": "movie",
+      "similar": ["movie-2", "movie-3"],
+      "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "drive": "",
+      "mega": "https://mega.nz/embed/vd1xnRZD#SdBNvk7AHsGX3vmTrxzUsoyENv56fD9dpIpHYlFA98Q"
     }
   ],
   "series": [
