@@ -61,7 +61,24 @@
       "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "drive": "",
       "mega": "https://mega.nz/embed/vd1xnRZD#SdBNvk7AHsGX3vmTrxzUsoyENv56fD9dpIpHYlFA98Q"
-    }
+    },
+    {
+  "id": "movie-5",
+  "title": "Una película de Minecraft",
+  "description": "Cuatro inadaptados son arrastrados por un portal al Overworld, un misterioso lugar que se nutre de la imaginación. Para volver a casa, tendrán que dominar el terreno mientras se embarcan en una búsqueda con un artesano llamado Steve.",
+  "year": 2025,
+  "duration": 141,
+  "rating": "PG-13",
+  "genres": ["Sci-Fi", "Drama", "Adventure"],
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg",
+  "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDcnUUhdSED1M8gwx7842jMl_nzbMxXTjDoCpsuiWdqyAveux8jltaV1jN-iKGj7A1_w7Lm4-tVPZYqAHlAn4-_Jd0DYvQ-hUgxO5vN2Ncr64fp4joplOUIymBXIuDEzLFHkJTXqQiHoT_8dKCfKFXHXjyZZ5ZmEbwVUsnu1x-OvpTD19hBc9gS1yuCpZ/s3840/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "type": "movie",
+  "similar": ["movie-2", "movie-3"],
+  "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "drive": "",
+  "mega": ""
+}
+
   ],
   "series": [
     {
